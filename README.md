@@ -57,5 +57,4 @@ A aplicação conta com testes funcionais e de regras de negócio implementados 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/LojaMVC.git](https://github.com/seu-usuario/LojaMVC.git)
-   cd LojaMVC
+   git clone https://github.com/marihalmeida/LojaMVC.git
